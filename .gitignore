@@ -43,4 +43,4 @@ tmp/
 temp/
 *.tmp
 
-.cursor
+# .cursor
